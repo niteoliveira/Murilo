@@ -27,3 +27,7 @@ for count in range(5):
     
     print("%12d%16.5f" %(problemSize,number))
     problemSize *= 2
+----------------------------------------------------
+Big-O
+Notação Assintótica
+Codificar algoritmos com a menor complexidade possível para os problemas!
